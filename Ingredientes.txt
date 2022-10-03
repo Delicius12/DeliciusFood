@@ -1,0 +1,28 @@
+Hawaiana
+La pizza que unos cuestionan pero todos aman. Ingredientes: Jamón, piña. 
+Mexicana
+La pizza con los sabores auténticos de nuestro país. chorizo, 
+carne molida, jalapeño, cebolla.
+Carnes Frías
+La pizza para los amantes de la carne. Ingredientes: salami, pepperoni, jamón, 
+finas hierbas.
+Honolulu
+La pizza con la perfecta combinación dulce-salado. jamón, tocino, piña, jalapeño.
+Veggie
+¡Sólo vegetales! Nuestra opción sin carne. pimiento, champiñones, aceitunas, cebolla.
+Ingredientes: pimiento, cebolla, champiñones frescos y aceitunas.
+Chicken hawaiana
+La pizza más tropical que tenemos. Pollo, tocino, piña, salsa mango habanero.
+Ingredientes: pollo, tocino, piña y salsa de mango habanero.
+Peperoni especial
+La combinación perfecta entre Pepperoni y Champiñones, con un gran sabor y horneado al momento.
+Ingredientes: pepperoni, champiñones frescos y extra queso.
+Cuatro quesos
+La pizza pensada en los amantes del queso. Queso mozzarella, queso crema, queso cheddar, 
+queso parmesano. Ingredientes: queso crema, mozzarella, parmesano y cheddar.
+Deluxe
+Disfrutar esta pizza es todo un lujo. Pepperoni, carne molida, champiñones, pimiento, cebolla.
+Ingredientes: pepperoni, carne molida, champiñones frescos, pimiento y cebolla.
+Extravaganzza
+La pizza más incluyente de nuestras especialidades. pepperoni, carne molida, jamón, chorizo, pimiento, cebolla, champiñones, aceitunas, extra queso.
+Ingredientes: Pepperoni, Carne Molida, Jamón.
